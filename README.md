@@ -1,10 +1,10 @@
 ## Hi, I'm Abeni 👋
 
-### 3rd year undergrad at UCLA
+### Incoming 4th year undergrad at UCLA
 - Major: Computational and Systems Biology
 - Minor: Data Science Engineering
 
-- 🔭 I’m currently working on **SomniGuard**, a smart sleep mask as part of UCLA BMES Design Team!
+- 🔭 I have worked on **SomniGuard**, a smart sleep mask as part of UCLA BMES Design Team!
 - 🌱 I’m currently learning how to build a web app from scratch and display live data.
 
 ---
