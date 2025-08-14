@@ -4,7 +4,7 @@
 - Major: Computational and Systems Biology
 - Minor: Data Science Engineering
 
-- 🔭 I have worked on **SomniGuard**, a smart sleep mask as part of UCLA BMES Design Team!
+- 🔭 I have worked on **SomniGuard**, a smart sleep mask as part of UCLA BMES Design Team! You can find the website here: https://sleepmask.github.io/somniguard.github.io/ 
 - 🌱 I’m currently learning how to build a web app from scratch and display live data.
 
 ---
