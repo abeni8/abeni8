@@ -1,6 +1,6 @@
 ## Hi, I'm Abeni 👋
 
-### Incoming 4th year undergrad at UCLA
+## 4th year undergrad at UCLA
 - Major: Computational and Systems Biology
 - Minor: Data Science Engineering
 
