@@ -1,11 +1,11 @@
 ## Hi, I'm Abeni 👋
 
-## 4th year undergrad at UCLA
+## New Grad from UCLA
 - Major: Computational and Systems Biology
 - Minor: Data Science Engineering
 
+- Senior capstone on smartphone sensor behavioral analysis linked here: https://docs.google.com/document/d/e/2PACX-1vTjD0q255lhmJk7aItAO_HZ2TWwwmvSrE-wKCkFLFJ_t-iV73CBoGAWkvBGvzq0lg/pub 
 - 🔭 I have worked on **SomniGuard**, a smart sleep mask as part of UCLA BMES Design Team! You can find the website here: https://sleepmask.github.io/somniguard.github.io/ 
-- 🌱 I’m currently learning how to build a web app from scratch and display live data.
 
 ---
 
